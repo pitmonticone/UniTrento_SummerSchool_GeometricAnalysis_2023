@@ -2,7 +2,7 @@
 
 ## Lectures
 
-### [Elia Bruè](https://dec.unibocconi.eu/people/elia-brue) (Università Bocconi)
+### [Elia Bruè](https://dec.unibocconi.eu/people/elia-brue) (Bocconi University)
 
 #### Abstract 
 
@@ -16,7 +16,7 @@ Paper
 - [Website](https://doi.org/10.48550/arXiv.2303.15347)
 - [PDF](lectures/Bruè.pdf)
 
-### [Adam Parusinski](https://math.univ-cotedazur.fr/~parus/) (Université Côte d'Azur)
+### [Adam Parusinski](https://math.univ-cotedazur.fr/~parus/) (Côte d'Azur University)
 
 #### Abstract 
 
