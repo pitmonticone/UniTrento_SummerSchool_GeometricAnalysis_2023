@@ -52,3 +52,17 @@ In 1941 Kolmogorov theorized that all p-th moments of increments of the velocity
 #### Resources 
 
 - Paper ([Website](https://doi.org/10.48550/arXiv.2212.08176), [PDF](talks/DeRosa.pdf))
+
+### [Stefano Spirito](https://www.disim.univaq.it/StefanoSpirito) (University of Acquila)
+
+#### Title 
+
+On the inviscid limit for 2D incompressible fluid.
+
+#### Abstract
+
+We review some recent results concerning the inviscid limit for the 2D Euler equations with irregular vorticity. In particular, by using techniques from the theory of transport equations with non smooth vector fields, we show that solutions of the incompressible 2D Euler equations obtained from the ones of the 2D incompressible Navier-Stokes equations via the vanishing viscosity limit satisfy a representation formula in terms of the flow of the velocity and that the strong convergence of the vorticity holds. Moreover, we also prove a rate of convergence. The talk is based on results obtained in collaboration with Gianluca Crippa (Univ. Basel) and Gennaro Ciampa (Università Milano Statale).
+
+#### Resources 
+
+- Paper ([Website](https://doi.org/10.48550/arXiv.2212.08176), [PDF](talks/DeRosa.pdf))
