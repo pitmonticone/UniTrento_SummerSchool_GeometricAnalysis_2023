@@ -1,6 +1,6 @@
-# [Summer School on Analysis & Geometry](https://sites.google.com/unitn.it/threedaysag2023/home) 
+# [UniTrento Summer School in Analysis & Geometry](https://sites.google.com/unitn.it/threedaysag2023/home) 
 
-- **What**: "Three Days between Analysis and Geometry"
+- **What**: "Three Days between Analysis and Geometry in Trento"
 - **When**: 2023/08/28 - 2023/08/30
 - **Where**: [University of Trento](https://www.unitn.it/en), Italy
 - **Who**: Organised by the [Department of Mathematics](https://www.maths.unitn.it/en), University of Trento
