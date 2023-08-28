@@ -65,4 +65,4 @@ We review some recent results concerning the inviscid limit for the 2D Euler equ
 
 #### Resources 
 
-- Paper ([Website](https://doi.org/10.48550/arXiv.2212.08176), [PDF](talks/DeRosa.pdf))
+- Paper ([Website](https://doi.org/10.1007/s00205-021-01612-z), [PDF](talks/Spirito.pdf))
