@@ -14,7 +14,7 @@ In the subsequent part, we will discuss recent work with Naber and Semola, where
 
 Paper 
 - [Website](https://doi.org/10.48550/arXiv.2303.15347)
-- [PDF](lecture-notes/Bruè.pdf)
+- [PDF](lectures/Bruè.pdf)
 
 ### [Adam Parusinski](https://math.univ-cotedazur.fr/~parus/) (Université Côte d'Azur)
 
@@ -25,6 +25,6 @@ The goal of this course is to give an introduction to semialgebraic and subanaly
 #### Resources
 
 - [Website](https://math.univ-cotedazur.fr/~parus/publis/trento.pdf)
-- [PDF](lecture-notes/Parusinski.pdf)
+- [PDF](lectures/Parusinski.pdf)
 
 ## Talks 
