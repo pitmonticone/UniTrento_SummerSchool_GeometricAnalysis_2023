@@ -13,7 +13,7 @@
 
 In 1968, Milnor proposed a conjecture stating that Riemannian manifolds with nonnegative Ricci curvature have finitely generated fundamental groups.
 The first part of the course will focus on comprehending this conjecture and discussing the progress made in addressing it throughout the years.
-In the subsequent part, we will discuss recent work with Naber and Semola, where we provide a counterexample to Milnor's conjecture. More specifically, we construct a seven-dimensional manifold with nonnegative Ricci curvature whose fundamental group is isomorphic to Q/Z. The key ideas behind the construction will be explained, and the resulting manifold's geometry will be described in detail.
+In the subsequent part, we will discuss recent work with Naber and Semola, where we provide a counterexample to Milnor's conjecture. More specifically, we construct a seven-dimensional manifold with nonnegative Ricci curvature whose fundamental group is isomorphic to $\mathbb{Q}/\mathbb{Z}$. The key ideas behind the construction will be explained, and the resulting manifold's geometry will be described in detail.
 
 #### Resources 
 
