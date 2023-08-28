@@ -53,7 +53,7 @@ In 1941 Kolmogorov theorized that all p-th moments of increments of the velocity
 
 - Paper ([Website](https://doi.org/10.48550/arXiv.2212.08176), [PDF](talks/DeRosa.pdf))
 
-### [Stefano Spirito](https://www.disim.univaq.it/StefanoSpirito) (University of Acquila)
+### [Stefano Spirito](https://www.disim.univaq.it/StefanoSpirito) (University of Aquila)
 
 #### Title 
 
@@ -66,3 +66,17 @@ We review some recent results concerning the inviscid limit for the 2D Euler equ
 #### Resources 
 
 - Paper ([Website](https://doi.org/10.1007/s00205-021-01612-z), [PDF](talks/Spirito.pdf))
+
+### [Barbara Nelli](https://www.disim.univaq.it/BarbaraNelli) (University of Aquila)
+
+#### Title 
+
+The Jenkins-Serrin Theorem reloaded.
+
+#### Abstract
+
+Jenkins and Serrin in the sixties proved a famous  theorem   about minimal graphs in the Euclidean 3-space with infinite boundary values. After reviewing the classical  results, we show how to solve the Jenkins-Serrin problem in a 3-manifold with a Killing vector field. This is a joint work with A. Del Prete and J. M. Manzano.
+
+#### Resources 
+
+- Paper ([Website](https://doi.org/10.48550/arXiv.2306.12195), [PDF](talks/Nelli.pdf))
