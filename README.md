@@ -1,4 +1,4 @@
-# Summer School on Analysis & Geometry (Trento, 28/08 - 30/08)
+# Summer School: Analysis & Geometry (Trento, 28/08 - 30/08)
 
 ## Lectures
 
