@@ -9,6 +9,10 @@
 
 ### [Elia Bruè](https://dec.unibocconi.eu/people/elia-brue) (Bocconi University)
 
+#### Title 
+
+The fundamental groups of manifolds with nonnegative Ricci curvature.
+
 #### Abstract 
 
 In 1968, Milnor proposed a conjecture stating that Riemannian manifolds with nonnegative Ricci curvature have finitely generated fundamental groups.
@@ -21,6 +25,10 @@ In the subsequent part, we will discuss recent work with Naber and Semola, where
 
 ### [Adam Parusinski](https://math.univ-cotedazur.fr/~parus/) (Côte d'Azur University)
 
+#### Title 
+
+Introduction to semialgebraic and subanalytic geometry.
+
 #### Abstract 
 
 The goal of this course is to give an introduction to semialgebraic and subanalytic sets and mappings with emphasis on the properties used in various areas of differential geometry and analysis. In particular we cover such subjects as Łojasiewicz Inequalities, decompositions and stratifications. One lecture will be devoted to the metric properties of these sets including the L-regular decomposition, subanalytic preparation theorem and Lipschitz stratification. We also discuss the integration on subanalytic sets, local densities, and the dependence of integrals on parameters in families.
@@ -30,3 +38,17 @@ The goal of this course is to give an introduction to semialgebraic and subanaly
 - Lecture notes ([Website](https://math.univ-cotedazur.fr/~parus/publis/trento.pdf), [PDF](lectures/Parusinski.pdf))
 
 ## Talks 
+
+### [Luigi De Rosa](https://dmi.unibas.ch/en/persons/luigi-de-rosa/) (University of Basel)
+
+#### Title 
+
+Intermittency and Minkowski content in turbulence.
+
+#### Abstract
+
+In 1941 Kolmogorov theorized that all p-th moments of increments of the velocity in a turbulent flow have 1/3 has a universal regularity exponent. However, downward deviations from K41 prediction are experimentally observed. This phenomenon is nowadays known as "intermittency", which theoretical physicists, starting from Landau, linked to the spottiness of the region where the dissipation is supported. We propose a couple of Minkowski-type notions of dimensions, one Eulerian and one Lagrangian, which lay down a setup to make Landau's objection quantitative. The approach is quite geometrical and it is in fact part of a more general picture in which most of the PDEs in fluid dynamics fall.
+
+#### Resources 
+
+- Paper ([Website](https://doi.org/10.48550/arXiv.2212.08176), [PDF](talks/DeRosa.pdf))
