@@ -2,4 +2,4 @@
 
 ## [Adam Parusinski](https://math.univ-cotedazur.fr/~parus/)
 
-- Lecture notes: https://math.univ-cotedazur.fr/~parus/publis/trento.pdf
+- Lecture notes ([Website](https://math.univ-cotedazur.fr/~parus/publis/trento.pdf), [PDF](lecture-notes/Parusinski.pdf))
