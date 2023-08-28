@@ -1,1 +1,5 @@
-# Summer School "Three Days between Analysis and Geometry" (Trento, 28/08/2023 - 30/08/2023)
+# Three Days between Analysis and Geometry (Trento, 28/08 - 30/08)
+
+## Adam Parusinski
+
+- Lecture notes: https://math.univ-cotedazur.fr/~parus/publis/trento.pdf
