@@ -51,14 +51,6 @@ Jenkins and Serrin in the sixties proved a famous  theorem   about minimal graph
 #### Resources 
 - Paper ([Website](https://doi.org/10.48550/arXiv.2306.12195), [PDF](talks/Nelli.pdf))
 
-### [Carlo Mantegazza](https://cvgmt.sns.it/HomePages/cm/) (University of Naples)
-#### Title 
-Stability for the surface diffusion flow.
-#### Abstract
-We study the surface diffusion flow in the flat torus, that is, smooth hypersurfaces moving with the outer normal velocity given by the Laplacian of their mean curvature. This model describes the evolution in time of interfaces between solid phases of a system, driven by the surface diffusion of atoms under the action of a chemical potential. We show that if the initial set is sufficiently "close" to a strictly stable critical set for the Area functional under a volume constraint, then the flow actually exists for all times and asymptotically converges to a "translated" of the critical set. This generalizes the analogous result in dimension three, by Acerbi, Fusco, Julin and Morini.
-#### Resources 
-- Paper ([Website](https://doi.org/10.48550/arXiv.2304.04011), [PDF](talks/Mantegazza.pdf))
-
 ### [Emanuela Radici](https://www.disim.univaq.it/EmanuelaRadici) (University of L'Aquila)
 #### Title 
 On curvature and five gradients inequality on manifolds.
@@ -74,3 +66,11 @@ Rectifiability of a class of integralgeometric measures and applications
 In his textbook 'Geometric Measure Theory', Federer proposed the following problem: (Q) Is the restriction of the m-dimensional integralgeometric measure to a finite set a m-rectifiable measure? With this motivation, after a brief introduction to the integral geometric measure, I will discuss how rectifiability issues in the spirit of (Q) play an important role in some variational problems. As a sort of unifying theory, I will then introduce a novel class of measures in the euclidean space based upon the idea of slicing. The central result of this talk will follow, which is a sufficient condition for rectifiability in the above class. Two main applications will be shown: the solution to Federer's problem, as well as a novel rectifiability criterion for Radon measures via slicing, the latter being reminiscent of White's rectifiable slices theorem for flat chains. If time permits, I will discuss how to extend the main result to the Riemannian case by means of the notion of transversal family of maps. In the very last part of the talk I will propose some related open problems.
 #### Resources 
 - Paper ([Website](https://doi.org/10.48550/arXiv.2206.14044), [PDF](talks/Tasso.pdf))
+
+### [Enrico Savi](https://webapps.unitn.it/du/it/Persona/PER0177246/Curriculum) (University of Trento)
+#### Title 
+Embedded \mathbb{Q}-desingularization of real Schubert varieties and application to the relative \mathbb{Q}-algebraicity problem
+#### Abstract
+In 2020 Parusiński and Rond proved that every algebraic set $X \sub \mathbb{R}^n$ is homeomorphic to an algebraic set $X' \sub \mathhbb{R}^n$ which is described globally (and also locally) by polynomial equations whose coefficients are real algebraic numbers. In general, the following problem was widely open: Open Problem. Is every real algebraic set homeomorphic to a real algebraic set defined by polynomial equations with rational coefficients? The aim of my PhD thesis is to provide classes of real algebraic sets that positively answer to above Open Problem. In Chapter 1 I introduce a new theory of real and complex algebraic geometry over subfields recently developed by Fernando and Ghiloni. In particular, the main notion to outline is the so called $\mathbb{R}|\mathbb{Q}$-regularity of points of a $\mathbb{Q}$-algebraic set $X \sub \mathbb{R}^n$. This definition suggests a natural notion of a $\mathbb{Q}$-nonsingular $\mathbb{Q}$-algebraic set $X \sub \mathbb{R}^n$. The study of $\mathbb{Q}$-nonsingular $\mathbb{Q}$-algebraic sets is the main topic of Chapter 2. Then, in Chapter 3 I introduce $\mathbb{Q}$-algebraic approximation techniques a là Akbulut-King developed in collaboration with Ghiloni and the main consequences we proved, that are, versions "over $\mathbb{Q}$" of the classical and the relative Nash-Tognoli theorems. Last results can be found in in Chapters 3 & 4, respectively. In particular, we obtained a positive answer to above Open Problem in the case of compact nonsingular algebraic sets. Then, after extending "over $\mathbb{Q}$" the Akbulut-King blowing down lemma, we are in position to give a complete positive answer to above Open Problem also in the case of compact algebraic sets with isolated singularities in Chapter 4. After algebraic Alexandroff compactification, we obtained a positive answer also in the case of non-compact algebraic sets with isolated singularities. Other related topics are investigated in Chapter 4 such as the existence of $\mathbb{Q}$-nonsingular $\mathbb{Q}$-algebraic models of Nash manifolds over every real closed field and an answer to the $\mathbb{Q}$-algebrization problem for germs of an isolated algebraic singularity. Appendices A & B contain results on Nash approximation and an evenness criterion for the degree of global smoothings of subanalytic sets, respectively.
+#### Resources 
+- Paper ([Website](https://doi.org/10.48550/arXiv.2302.04673), [PDF](talks/Savi.pdf))
