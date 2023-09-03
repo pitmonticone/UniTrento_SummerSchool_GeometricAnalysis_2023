@@ -7,7 +7,7 @@
 
 ## Lectures
 
-### [Elia Bruè](https://dec.unibocconi.eu/people/elia-brue) (Bocconi University)
+### [Elia Bruè](https://cvgmt.sns.it/person/2687/) (Bocconi University)
 #### Title 
 The fundamental groups of manifolds with nonnegative Ricci curvature.
 #### Abstract 
